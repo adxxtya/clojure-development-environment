@@ -1,0 +1,6 @@
+[submodule "frontend/conduit"]
+	path = frontend/conduit
+	url = https://github.com/adxxtya/clojure-development-environment.git
+[submodule "backend/clojure-polylith-realworld-example-app"]
+	path = backend/clojure-polylith-realworld-example-app
+	url = https://github.com/adxxtya/clojure-development-environment.git
